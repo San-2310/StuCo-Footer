@@ -61,11 +61,9 @@
               </div>
               <div className="footer-social-icon">
                 <span>Follow us</span>
-                {/* <a href="https://facebook.com/"><i class="fa fa-facebook-f facebook-bg"></i></a> */}
                 <a href="https://www.linkedin.com/school/bhartiya-vidya-bhavans-sardar-patel-institute-of-technology-munshi-nagar-andheri-mumbai/">
                   <i className="fa fa-linkedin linkedin-bg" />
                 </a>
-                {/* <a href="https://google.com/"><i class="fa fa-google-plus google-bg"></i></a> */}
                 <a href="https://www.instagram.com/student_council_spit/">
                   <i className="fa fa-instagram insta-bg" />
                 </a>
@@ -79,16 +77,16 @@
               </div>
               <ul className="useful-link">
                 <li>
-                  <a href="home.com">Home</a>
+                  <a href="#">Home</a>
                 </li>
                 <li>
-                  <a href="events.com">Events</a>
+                  <a href="#">Events</a>
                 </li>
                 <li>
-                  <a href="commit.com">Committees</a>
+                  <a href="#">Committees</a>
                 </li>
                 <li>
-                  <a href="team.com">Teams</a>
+                  <a href="#">Teams</a>
                 </li>
               </ul>
             </div>
